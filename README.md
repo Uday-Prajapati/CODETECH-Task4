@@ -48,3 +48,20 @@ Handling SQL exceptions and user input validations ensures stability and reliabi
 
 # 4. Enhanced User Interaction:
 Dropdown menus and dialogs improve navigation and make operations intuitive for end-users.
+
+# Final Output:
+# Login for Librarian and Patron:
+![image](https://github.com/user-attachments/assets/5e53e76d-acee-4d4a-b47f-3fe019fc0087)
+# GUI for Library Management:
+![image](https://github.com/user-attachments/assets/d17967e7-e24f-4490-843d-df82e9a78ad0)
+# Add item:
+![image](https://github.com/user-attachments/assets/409ab0f7-c591-4f9b-9d8d-2f17817461d5)
+# Search item:
+![image](https://github.com/user-attachments/assets/2160b913-34fb-470d-ba59-d41e91e99099)
+![image](https://github.com/user-attachments/assets/d82475f6-6ec6-4a68-bbb0-05833c4f7b64)
+# Check overdue item:
+![image](https://github.com/user-attachments/assets/8788a44d-a158-4ea4-a471-bbbb062e513d)
+# Delete item:
+![image](https://github.com/user-attachments/assets/3e08e4ca-188a-48d9-afb7-4bac0e44f937)
+# iew available books:
+![image](https://github.com/user-attachments/assets/3e29e2a9-7133-4186-b002-31cbcdcbc038)
