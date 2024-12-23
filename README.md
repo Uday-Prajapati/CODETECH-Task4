@@ -63,5 +63,5 @@ Dropdown menus and dialogs improve navigation and make operations intuitive for 
 ![image](https://github.com/user-attachments/assets/8788a44d-a158-4ea4-a471-bbbb062e513d)
 # Delete item:
 ![image](https://github.com/user-attachments/assets/3e08e4ca-188a-48d9-afb7-4bac0e44f937)
-# iew available books:
+# View available books:
 ![image](https://github.com/user-attachments/assets/3e29e2a9-7133-4186-b002-31cbcdcbc038)
